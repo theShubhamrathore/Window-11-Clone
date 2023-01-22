@@ -25,7 +25,7 @@ Author<br>
 Shubham Rathore<br>
 
 License<br>
-This project is licensed under the [name of the license] License - see the LICENSE.md file for details.
+This project is licensed under the shubham rathore License - see the LICENSE.md file for details.
 
 Acknowledgments
 my friends.
