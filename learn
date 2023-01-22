@@ -1,0 +1,39 @@
+Learning Window 11 Frontend Design
+Welcome to the Window 11 Frontend Design project! This project is a custom window interface built using HTML, CSS, and JavaScript. It features a to-do list, an excel sheet, dark mode, and games for fun.
+
+Prerequisites
+Basic understanding of HTML, CSS, and JavaScript
+Familiarity with a code editor (such as Visual Studio Code or Sublime Text)
+A web browser for testing the application
+Getting Started
+Clone the repository
+Open the project in your code editor
+Open the index.html file in your web browser to run the application
+Understanding the Code
+The project is organized into three main folders: html, css, and js.
+
+The html folder contains the HTML files that make up the structure of the application
+The css folder contains the CSS files that control the styling of the application
+The js folder contains the JavaScript files that control the functionality of the application
+HTML
+The HTML files define the structure of the application. They are responsible for creating the elements (such as buttons and text fields) that make up the interface.
+
+CSS
+The CSS files control the styling of the application. They are responsible for controlling the layout, colors, and other visual elements of the interface.
+
+JavaScript
+The JavaScript files control the functionality of the application. They are responsible for making the elements in the interface interactive and for implementing features such as the to-do list and excel sheet.
+
+Learning Resources
+Here are a few resources that can help you learn more about the technologies used in this project:
+
+W3Schools HTML Tutorial
+W3Schools CSS Tutorial
+W3Schools JavaScript Tutorial
+Additional Notes
+This project is a work in progress, and more features will be added in the future.
+Feel free to contribute by submitting pull requests or issues on the repository.
+If you have any questions or need help, please reach out to the project maintainers through the contact information provided in the README file.
+Happy learning!
+
+Please note that this is a basic learning.md file, you can always customize it as per your requirement and add more details and information.
